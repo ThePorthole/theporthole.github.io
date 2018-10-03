@@ -12,11 +12,11 @@
 
 <table>
   <tr>
-    <td markdown="span">![Procrustes](https://i.imgur.com/BcbX6gBb.jpg)
+    <td markdown="span">![Procrustes](https://i.imgur.com/BcbX6gBb.jpg)  
     Procrustes</td>
-    <td markdown="span">![Belln](https://i.imgur.com/Oe1xNnRb.png)
+    <td markdown="span">![Belln](https://i.imgur.com/Oe1xNnRb.png)  
     Belln</td>
-    <td markdown="span">![Eochaidh](https://i.imgur.com/BK7V1ZOb.png)
+    <td markdown="span">![Eochaidh](https://i.imgur.com/BK7V1ZOb.png)  
     Eochaidh</td>
   </tr>
   <tr>
