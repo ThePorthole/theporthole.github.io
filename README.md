@@ -3,4 +3,4 @@ The Porthole™
 
 
 # Smokey River
-!(https://i.imgur.com/exed6hMb.png)
+![Smokey](https://i.imgur.com/exed6hMb.png)
