@@ -6,3 +6,8 @@
 ## NPCs
 ![Procrustes](https://i.imgur.com/BcbX6gBb.jpg) ![Belln](https://i.imgur.com/Oe1xNnRb.png) ![Eochaidh](https://i.imgur.com/BK7V1ZOb.png)
 
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
+
