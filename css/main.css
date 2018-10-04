@@ -1,8 +1,5 @@
-th {
-   border: 10px solid blue;
-}
-
 td {
-   border: 10px solid yellow;
+    padding: none;
+    border: 10px solid red;
 }
 
