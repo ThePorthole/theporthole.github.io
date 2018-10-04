@@ -1,8 +1,8 @@
 table, th, td {
-   border: 1px solid black;
+   border: 10px solid red;
 }
 
 th, td {
-    padding: 0px;
-    text-align: right;
+    padding: none;
+    text-align: center;
 }
