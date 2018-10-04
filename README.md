@@ -1,4 +1,4 @@
- <link id="theme-style" rel="stylesheet" href="{{ site.baseurl }}/_assets/css/main.css">
+ <link id="theme-style" rel="stylesheet" href="{{ site.baseurl }}/main.scss">
 
 # The Porthole™
 
