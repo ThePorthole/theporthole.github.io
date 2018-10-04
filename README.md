@@ -1,4 +1,13 @@
 # The Porthole™
+<ul>
+{% for player in site.data.players %}
+  <li>
+    <a href="https://www.dndbeyond.com/characters/{{ player.dndbeyond }}">
+      {{ player.name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
 
 ## Players
 <table>
