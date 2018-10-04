@@ -1,11 +1,9 @@
 table {
     border-collapse: collapse !important;
-}
-
-table, th, td {
     border: none !important;
 }
 
-th, td {
+td {
+    border: none !important;
     padding: none !important;
 }
