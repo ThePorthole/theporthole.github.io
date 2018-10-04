@@ -1,8 +1,14 @@
- <link id="theme-style" rel="stylesheet" href="{{ site.baseurl }}/main.scss">
+// <link id="theme-style" rel="stylesheet" href="{{ site.baseurl }}/main.scss">
+
+<style type="text/css">
+ th, td {
+     padding: 0px;
+ }
+</style>
 
 # The Porthole™
 
-9
+10
 
 ## Players
 <table border="0" cellpadding="0" cellspacing="0"><tr>
