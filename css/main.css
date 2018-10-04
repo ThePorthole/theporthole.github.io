@@ -1,8 +1,4 @@
-table {
-  border: 1px solid red;
-  padding: 0;
-}
-
-td {
-  border: 1px solid blue !important;
+table, td, th {
+  border: none !important;
+  padding: 0 !important;
 }
