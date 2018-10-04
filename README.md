@@ -1,9 +1,9 @@
 # The Porthole™
 
-5
+6
 
 ## Players
-<table cellpadding="0" border="0"><tr>
+<table border="0" cellpadding="0" cellspacing="0"><tr>
   {% for player in site.data.players %}
     <td><a href="https://www.dndbeyond.com/characters/{{ player.dndbeyond }}">
     <img src="{{ player.avatar }}"/><br>
