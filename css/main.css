@@ -2,10 +2,10 @@ table {
     border-collapse: collapse !important;
 }
 
-table, th, tr, td {
+table, th, td {
     border: none !important;
 }
 
-th, tr, td {
+th, td {
     padding: none !important;
 }
