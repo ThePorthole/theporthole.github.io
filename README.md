@@ -1,12 +1,6 @@
-<style type="text/css">
- th, td {
-     padding: 0px;
- }
-</style>
-
 # The Porthole™
 
-10
+11
 
 ## Players
 <table><tr>
