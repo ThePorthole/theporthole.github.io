@@ -9,6 +9,15 @@
 {% endfor %}
 </ul>
 
+<table>
+  <tr>
+    {% for player in site.data.players %}
+        <td markdown="span">![{{ player.nickname }}]({{ player.avatar }})  
+      {{ player.name }}</td>
+    {% endfor %}
+  </tr>
+</table>
+
 ## Players
 <table>
   <tr>
