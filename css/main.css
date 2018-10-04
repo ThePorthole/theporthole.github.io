@@ -1,5 +1,8 @@
 table {
   border: 1px solid red;
-  margin: 0;
   padding: 0;
+}
+
+td {
+  border: 1px solid blue !important;
 }
