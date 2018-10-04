@@ -4,3 +4,7 @@
 // start content
 .my-definition
   font-size: 1.2em
+
+th, td {
+    padding: 0px;
+}
