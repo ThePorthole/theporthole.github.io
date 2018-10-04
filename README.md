@@ -3,10 +3,8 @@
 ## Players
 <table><tr>
   {% for player in site.data.players %}
-  <a href="https://www.dndbeyond.com/characters/{{ player.dndbeyond }}">
-    <td markdown="span">![{{ player.nickname }}]({{ player.avatar }})  
-      {{ player.name }}</td>
-  </a>
+    <td><a href="https://www.dndbeyond.com/characters/{{ player.dndbeyond }}">
+    <img src="{{ player.avatar }}"/></a></td>  
   {% endfor %}
 </tr></table>
 
