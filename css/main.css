@@ -6,6 +6,6 @@ table, th, tr, td {
     border: none !important;
 }
 
-th, td {
+th, tr, td {
     padding: none !important;
 }
