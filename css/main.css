@@ -1,5 +1,13 @@
-table, th, td {
+table {
    border: 10px solid red;
+}
+
+th {
+   border: 10px solid blue;
+}
+
+td {
+   border: 10px solid yellow;
 }
 
 th, td {
