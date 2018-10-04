@@ -1,5 +1,3 @@
-// <link id="theme-style" rel="stylesheet" href="{{ site.baseurl }}/main.scss">
-
 <style type="text/css">
  th, td {
      padding: 0px;
