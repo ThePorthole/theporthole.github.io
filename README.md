@@ -4,8 +4,9 @@
 
 ## Adventure
 [Chapter 1 -- Camp Behal](chapter01.md)  
-[Chapter 2 -- The Herb Cave](chapter02.md)  
-[Chapter 3 -- Back to Behal](chapter03.md)  
+[Chapter 2 -- Journey to the Cave](chapter02.md)  
+[Chapter 3 -- The Herb Cave](chapter03.md)  
+[Chapter 3 -- Back to Behal](chapter04.md)  
 
 ## Players
 <table><tr>
