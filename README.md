@@ -1,12 +1,12 @@
 # The Porthole™
 
-44
-
 ## Adventure
 [Chapter 1 -- Camp Behal](chapter01.md)  
 [Chapter 2 -- The Herb Cave](chapter02.md)  
 [Chapter 3 -- Back to Behal](chapter03.md)  
 [Chapter 4 -- The First Oasis](chapter04.md)  
+[Chapter 5 -- Into the Sandstorm](chapter05.md)
+[Chapter 6 -- The Porthole](chapter06.md)
 
 ## Players
 <table><tr>
@@ -24,4 +24,3 @@
     {{ npc.name }}</td>
 {% endfor %}
 </tr></table>
-
