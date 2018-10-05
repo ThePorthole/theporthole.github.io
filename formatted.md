@@ -61,7 +61,7 @@
 | ![Smokey River](https://cdn.discordapp.com/avatars/464655070156423168/d377dfcfbdeaf56847dea1d0f7345bf3.webp?size=128)<br>Smokey River | **calmly watching the Orc approach**<br><br>Yes. I am Tabaxi, but I prefer not to focus on the race but on the person inside. My name is Smokey. What is your name? <br><br>**extends hand towards the Orc** | 
 | ![Akai](https://cdn.discordapp.com/avatars/464655068793143296/34e6badd9ee54434a65589fdb25eaddd.webp?size=128)<br>Akai | "Oh no, I am here to meet with my brother and sister, Takai and Lakai. My sister is getting married and so I am heading home to celebrate the occasion. Please, everyone meet Myssa." | 
 | ![Likai](https://cdn.discordapp.com/avatars/464655070156423168/0867c3c00c329d84140a283b083e64e3.webp?size=128)<br>Likai | "Likai. A pleasure." | 
-| ![Takai](128)<br>Takai | *grabs Myssas hand and kisses it in a gentlemanly fashion.* "Pleased to meet you, Myssa. My name is Takai." | 
+| ![Takai](https://cdn.discordapp.com/avatars/464655070156423168/d8e21a64cc7a57c6af8f93aa5cc8927c.webp?size=128)<br>Takai | *grabs Myssas hand and kisses it in a gentlemanly fashion.* "Pleased to meet you, Myssa. My name is Takai." | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655070156423168/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | **M'ggah shakes the proffered paw and then tries to go for a bro hug.  It's awkward.**<br><br>"Hey Smokey, I'm M'ggah, yeah I don't see race either, I guess I'm an orc, but that's just what they tell me, I dunno.  Here for work?"<br><br>_that's a weird lookin moon elf over there all albino and shit_ | 
 | ![Smokey River](https://cdn.discordapp.com/avatars/464655068793143296/d377dfcfbdeaf56847dea1d0f7345bf3.webp?size=128)<br>Smokey River | Yes. I am looking for work and to learn. You seem like a decent type so maybe we could find something together. You have much I can observe and maybe I can pass on some things to you as well. We can grow together! | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655070156423168/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | _ha! gaaaaaaaaaaaay_<br><br>"Yeah, totally.  Hey you gotta meet this chick Myssa she's got the hookup with that Akai guy everyone's talking about."<br><br>`stroll back over to myssa.  give her a nod when she makes eye contact.` | 
@@ -595,17 +595,17 @@
 | ![Smokey River](https://cdn.discordapp.com/avatars/464655068793143296/d377dfcfbdeaf56847dea1d0f7345bf3.webp?size=128)<br>Smokey River | I kind of remember that but we seem to be just hanging around so I thought something else might be going on | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655070156423168/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | _kitty has the attention span of a gog_<br><br>`go find camel merchant` | 
 | ![Smokey River](https://cdn.discordapp.com/avatars/464655068793143296/d377dfcfbdeaf56847dea1d0f7345bf3.webp?size=128)<br>Smokey River | **load up with waterskins for the journey** | 
-| ![The Waterskin Guy!](https://cdn.discordapp.com/avatars/464655070156423168/e3b93075e421f62978460f2cc76103e1.webp?size=128)<br>The Waterskin Guy! | "Hey there everybody! How can I help ya? I hope its about water, because well i'm The Waterskin Guy!" | 
+| ![The Water Guy!](https://cdn.discordapp.com/avatars/464655070156423168/e3b93075e421f62978460f2cc76103e1.webp?size=128)<br>The Water Guy! | "Hey there everybody! How can I help ya? I hope its about water, because well i'm The Water Guy!" | 
 | ![Myssa](https://cdn.discordapp.com/avatars/464655068793143296/ed988706a44080d0e031664f672851a6.webp?size=128)<br>Myssa | "Hey there! How much does a waterakin put someone back around here? We need a bunch! Maybe even just rent them for a couple weeks?" | 
-| ![The Waterskin Guy!](https://cdn.discordapp.com/avatars/464655070156423168/e3b93075e421f62978460f2cc76103e1.webp?size=128)<br>The Waterskin Guy! | "Two sp a skin, and they can hold 4 pints worth each. Cant rent them though, that would be unsanitary." | 
+| ![The Water Guy!](https://cdn.discordapp.com/avatars/464655070156423168/e3b93075e421f62978460f2cc76103e1.webp?size=128)<br>The Water Guy! | "Two sp a skin, and they can hold 4 pints worth each. Cant rent them though, that would be unsanitary." | 
 | ![Tennia the Camel Merchant](https://cdn.discordapp.com/avatars/464655068793143296/439c94de673f969aa1d3084a171aaeea.webp?size=128)<br>Tennia the Camel Merchant | "hey there orc friend, you're back again!" | 
 | ![Myssa](https://cdn.discordapp.com/avatars/464655070156423168/ed988706a44080d0e031664f672851a6.webp?size=128)<br>Myssa | "If I buy 40 of them can I get a discounted price?" | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655068793143296/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | "Hey Tennia still got that special camel?" | 
-| ![The Waterskin Guy!](https://cdn.discordapp.com/avatars/464655070156423168/e3b93075e421f62978460f2cc76103e1.webp?size=128)<br>The Waterskin Guy! | "Unfortunately no. Demand is high for water in the desert!" | 
+| ![The Water Guy!](https://cdn.discordapp.com/avatars/464655070156423168/e3b93075e421f62978460f2cc76103e1.webp?size=128)<br>The Water Guy! | "Unfortunately no. Demand is high for water in the desert!" | 
 | ![Tennia the Camel Merchant](https://cdn.discordapp.com/avatars/464655068793143296/439c94de673f969aa1d3084a171aaeea.webp?size=128)<br>Tennia the Camel Merchant | "Of course! He's yours for the price we spoke about earlier" | 
 | ![Myssa](https://cdn.discordapp.com/avatars/464655070156423168/ed988706a44080d0e031664f672851a6.webp?size=128)<br>Myssa | "Fair enough!  I'll take 39 waterskins please." | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655068793143296/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | "What about 20 gold and this longsword and these tattered clothes for a camel that ain't so 'special' plus a saddle?" | 
-| ![The Waterskin Guy!](128)<br>The Waterskin Guy! | "That'll be 78 sp please!" | 
+| ![The Water Guy!](https://cdn.discordapp.com/avatars/464655070156423168/e3b93075e421f62978460f2cc76103e1.webp?size=128)<br>The Water Guy! | "That'll be 78 sp please!" | 
 | ![Tennia the Camel Merchant](https://cdn.discordapp.com/avatars/464655068793143296/439c94de673f969aa1d3084a171aaeea.webp?size=128)<br>Tennia the Camel Merchant | "Book price on a "not so special" camel is 50gp so that doesnt make much sense." | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655070156423168/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | "You said they were 20 gold off!" | 
 | ![Tennia the Camel Merchant](https://cdn.discordapp.com/avatars/464655068793143296/439c94de673f969aa1d3084a171aaeea.webp?size=128)<br>Tennia the Camel Merchant | "Thats the special one" | 
@@ -639,13 +639,13 @@
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655068793143296/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | `walk along merchants` | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655068793143296/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | `find a cooper` | 
 | ![Procrustes](https://cdn.discordapp.com/avatars/464655070156423168/787ab4f674b7eca0a232c82497ccfa25.webp?size=128)<br>Procrustes | you find waterskin guy working on a deal with myssa | 
-| ![The Waterskin Guy!](128)<br>The Waterskin Guy! | "Hey there! Another customer! Must be a thirsty day!" | 
+| ![The Water Guy!](https://cdn.discordapp.com/avatars/464655070156423168/e3b93075e421f62978460f2cc76103e1.webp?size=128)<br>The Water Guy! | "Hey there! Another customer! Must be a thirsty day!" | 
 | ![Myssa](https://cdn.discordapp.com/avatars/464655070156423168/ed988706a44080d0e031664f672851a6.webp?size=128)<br>Myssa | "Sorry there waterskin guy! Thinking it makes more sense to get a big ol' barrel.  Any idea where I could find one of those?" | 
-| ![The Waterbarrel Guy!](128)<br>The Waterbarrel Guy! | "Yeah, I have barrels as well!" | 
+| ![The Water Guy!](https://cdn.discordapp.com/avatars/464655070156423168/e3b93075e421f62978460f2cc76103e1.webp?size=128)<br>The Water Guy! | "Yeah, I have barrels as well!" | 
 | ![Myssa](https://cdn.discordapp.com/avatars/464655070156423168/ed988706a44080d0e031664f672851a6.webp?size=128)<br>Myssa | "Perfect, I'll take 1 of those and 20 skins.  Thank you!" | 
 | ![Myssa](https://cdn.discordapp.com/avatars/464655070156423168/ed988706a44080d0e031664f672851a6.webp?size=128)<br>Myssa | "You fill 'em up too?" | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655068793143296/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | "How much for a filled barrel?" | 
-| ![The Waterbarrel Guy!](128)<br>The Waterbarrel Guy! | "The skins are full, for the full barrel it will be 3gp, so 1gp over asking price." | 
+| ![The Water Guy!](https://cdn.discordapp.com/avatars/464655070156423168/e3b93075e421f62978460f2cc76103e1.webp?size=128)<br>The Water Guy! | "The skins are full, for the full barrel it will be 3gp, so 1gp over asking price." | 
 | ![Myssa](https://cdn.discordapp.com/avatars/464655070156423168/ed988706a44080d0e031664f672851a6.webp?size=128)<br>Myssa | "You've got a deal!"  **Myssa hands over 7gp** | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655068793143296/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | "Um, I wanted my own barrel." | 
 | ![Myssa](https://cdn.discordapp.com/avatars/464655070156423168/ed988706a44080d0e031664f672851a6.webp?size=128)<br>Myssa | "Here, have mine!" | 
@@ -656,12 +656,12 @@
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655068793143296/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | `hand over 7gp` | 
 | ![Avrae](https://cdn.discordapp.com/avatars/261302296103747584/0c1072166d59baae4a619cc7a0f85f13.webp?size=128)<br>Avrae |  | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655068793143296/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | _i'm broke!_ | 
-| ![The Waterbarrel Guy!](https://cdn.discordapp.com/avatars/464655070156423168/e3b93075e421f62978460f2cc76103e1.webp?size=128)<br>The Waterbarrel Guy! | "Alrighty, here you go! Pleasure doin business with you both." | 
+| ![The Water Guy!](https://cdn.discordapp.com/avatars/464655070156423168/e3b93075e421f62978460f2cc76103e1.webp?size=128)<br>The Water Guy! | "Alrighty, here you go! Pleasure doin business with you both." | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655068793143296/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | "Okay Meesa, here's the deal.  I won't charge you anything for hauling your barrel and we help each other keep our barrels safe.  No one touches yours, no one touches mine." | 
 | ![Myssa](https://cdn.discordapp.com/avatars/464655070156423168/ed988706a44080d0e031664f672851a6.webp?size=128)<br>Myssa | "Sounds like a deal Mggah!" | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655068793143296/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | "Just watch though, ol' Smokes is gonna get two days in and try to steal our water." | 
 | ![Smokey River](https://cdn.discordapp.com/avatars/464655070156423168/d377dfcfbdeaf56847dea1d0f7345bf3.webp?size=128)<br>Smokey River | Gimme 6 waterskins | 
-| ![The Waterbarrel Guy!](128)<br>The Waterbarrel Guy! | "That'll be 12sp please | 
+| ![The Water Guy!](https://cdn.discordapp.com/avatars/464655070156423168/e3b93075e421f62978460f2cc76103e1.webp?size=128)<br>The Water Guy! | "That'll be 12sp please | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655070156423168/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | "Everyone hydrated?" | 
 | ![Tia N'tamra](https://cdn.discordapp.com/avatars/464655068793143296/635cd367cca3e51974ee90b0c48f480c.webp?size=128)<br>Tia N'tamra | Tia finds a vendor who sells saddlebags | 
 | ![Tennia the Camel Merchant](https://cdn.discordapp.com/avatars/464655070156423168/439c94de673f969aa1d3084a171aaeea.webp?size=128)<br>Tennia the Camel Merchant | "why hello there!" | 
