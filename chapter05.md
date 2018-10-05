@@ -1,6 +1,7 @@
 # Chapter 5 -- Into the Sandstorm
-|||
-| --- | --- | 
+
+| | |  
+| --- | --- |  
 | ![Procrustes](https://cdn.discordapp.com/avatars/464655070156423168/787ab4f674b7eca0a232c82497ccfa25.webp?size=128)<br>Procrustes | You all move into the desert, plunging yourselves headfirst into the depths of the vicious sandstorm. The sand stings your exposed skin and yet you push on quickly, trying to move as fast as possible through the moving dunes. Belln guides you out ahead, and after 5 hours of grueling travel she stops and turns back to the party | 
 | ![Belln](https://cdn.discordapp.com/avatars/464655068793143296/b194ca954bca2f1bf71d5537a6c8803e.webp?size=128)<br>Belln | "Look off into the distance!" she says, pointing at an area that looks reminiscent to the previous oasis you have seen<br><br>"I don't remember there being an oasis so close..Perhaps our fast pace has gotten us there quicker than I thought... Though, it could be a mirage. What do you think we should do Tia?" | 
 | ![Tia N'tamra](https://cdn.discordapp.com/avatars/464655070156423168/635cd367cca3e51974ee90b0c48f480c.webp?size=128)<br>Tia N'tamra | "I don't know how after 5 hours the Kais could outrun us.  This strikes me as a trap.  Everyone,  be on guard for Tiki and Liki." | 
@@ -54,3 +55,7 @@
 | ![Smokey River](https://cdn.discordapp.com/avatars/464655070156423168/d377dfcfbdeaf56847dea1d0f7345bf3.webp?size=128)<br>Smokey River | Looks like we are resting... Foreveeeerrrrr | 
 | ![Myssa](https://cdn.discordapp.com/avatars/464655068793143296/ed988706a44080d0e031664f672851a6.webp?size=128)<br>Myssa | "Wow, thank you for being so hospitable!  How long have you lived here?" | 
 | ![Tia N'tamra](https://cdn.discordapp.com/avatars/464655070156423168/635cd367cca3e51974ee90b0c48f480c.webp?size=128)<br>Tia N'tamra | *looks around* | 
+
+
+[_Click here to continue to the next chapter_](chapter06.md)
+
