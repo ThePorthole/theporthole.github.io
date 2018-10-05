@@ -1,6 +1,7 @@
 # Chapter 2 -- The Herb Cave
-|||
-| --- | --- |  
+
+| | |  
+| --- | --- |   
 | ![Procrustes](https://cdn.discordapp.com/avatars/464655070156423168/787ab4f674b7eca0a232c82497ccfa25.webp?size=128)<br>Procrustes | You all travel north along the outskirts of the desert following the beautiful guide Belln. The pace is  faster than you would normally travel, but you are busy people with places to be and things to do. After about four hours, and as the sun begins to set, Belln turns to you | 
 | ![Belln](https://cdn.discordapp.com/avatars/464655068793143296/b194ca954bca2f1bf71d5537a6c8803e.webp?size=128)<br>Belln | "We aren't far from the cave. Would you like to continue on, or would you rather rest until morning?" | 
 | ![Smokey River](https://cdn.discordapp.com/avatars/464655070156423168/d377dfcfbdeaf56847dea1d0f7345bf3.webp?size=128)<br>Smokey River | I say we continue on. We can rest at the cave. | 
@@ -299,3 +300,6 @@
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655068793143296/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | "Maybe you have, but the rest of us need a nap before we go." | 
 | ![Myssa](https://cdn.discordapp.com/avatars/464655070156423168/ed988706a44080d0e031664f672851a6.webp?size=128)<br>Myssa | "Yeah, Belln, it was wild in there.  We need to take a quick break!" | 
 | ![Myssa](https://cdn.discordapp.com/avatars/464655070156423168/ed988706a44080d0e031664f672851a6.webp?size=128)<br>Myssa | **Myssa touches Smokey on the shoulder as she casts Cure Wounds** | 
+
+
+[_Click here to continue to the next chapter_](chapter03.md)
