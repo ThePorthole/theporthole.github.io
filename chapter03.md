@@ -123,7 +123,6 @@
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655068793143296/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | _goddamn elfs, this is how they getcha.  it's like the mob._ | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655068793143296/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | "Hey there, Waterskinbarrel Guy!  Can I do the same thing, full barrel and twenty waterskins to go, thanks." | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655068793143296/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | `hand over 7gp` | 
-| ![Avrae](https://cdn.discordapp.com/avatars/261302296103747584/0c1072166d59baae4a619cc7a0f85f13.webp?size=128)<br>Avrae |  | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655068793143296/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | _i'm broke!_ | 
 | ![The Water Guy!](https://cdn.discordapp.com/avatars/464655070156423168/e3b93075e421f62978460f2cc76103e1.webp?size=128)<br>The Water Guy! | "Alrighty, here you go! Pleasure doin business with you both." | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655068793143296/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | "Okay Meesa, here's the deal.  I won't charge you anything for hauling your barrel and we help each other keep our barrels safe.  No one touches yours, no one touches mine." | 
