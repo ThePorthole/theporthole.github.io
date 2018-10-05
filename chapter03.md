@@ -1,8 +1,7 @@
 # Chapter 3 -- Back to Behal
 
-| | |  
-| --- | --- |  
 | ![Procrustes](https://cdn.discordapp.com/avatars/464655068793143296/787ab4f674b7eca0a232c82497ccfa25.webp?size=128)<br>Procrustes | Belln leads you all back to the camp and you arrive at midday | 
+| --- | :--- |   
 | ![Procrustes](https://cdn.discordapp.com/avatars/464655068793143296/787ab4f674b7eca0a232c82497ccfa25.webp?size=128)<br>Procrustes | As you enter the tent you see Gimp grinning with anticipation | 
 | ![Gimp](https://cdn.discordapp.com/avatars/464655070156423168/bb8384c44dbd566a51057d7d0b23d83a.webp?size=128)<br>Gimp | "Ahhh! You return! I knew you had the adventurer glow about you." | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655068793143296/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | "Hold up a second there Papa Smurf, we gotta have a party chat first." | 
