@@ -20,7 +20,7 @@
 ## NPCs
 <table><tr>
   {% for npc in site.data.npcs %}
-  <td markdown="span">![{{ npc.nickname }}]({{ npc.avatar }})  
+  <td align="top" markdown="span">![{{ npc.nickname }}]({{ npc.avatar }})  
     {{ npc.name }}</td>
 {% endfor %}
 </tr></table>
