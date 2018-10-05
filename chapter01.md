@@ -216,7 +216,6 @@
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655070156423168/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | "Haha..... wait..... hey!" | 
 | ![Belln](https://cdn.discordapp.com/avatars/464655068793143296/b194ca954bca2f1bf71d5537a6c8803e.webp?size=128)<br>Belln | "I'll take my 5gp upfront and we can leave whenever you'd like." | 
 | ![Myssa](https://cdn.discordapp.com/avatars/464655070156423168/ed988706a44080d0e031664f672851a6.webp?size=128)<br>Myssa | **Myssa hands over 5 gp to Belln** "Here is your payment, I'm ready to go! Mggah and Smokey, ready to hit the road?" | 
-| ![Avrae](https://cdn.discordapp.com/avatars/261302296103747584/0c1072166d59baae4a619cc7a0f85f13.webp?size=128)<br>Avrae |  | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655068793143296/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | "Yeah boss" | 
 | ![Myssa](https://cdn.discordapp.com/avatars/464655070156423168/ed988706a44080d0e031664f672851a6.webp?size=128)<br>Myssa | "Gimp, you've got a deal. Can we find you here when we return?" | 
 | ![Gimp](https://cdn.discordapp.com/avatars/464655068793143296/bb8384c44dbd566a51057d7d0b23d83a.webp?size=128)<br>Gimp | "Yes of course, I'll be around here assuming you get back in the next few days before the caravan leaves. I wish you luck... im sure you'll need it." | 
