@@ -1,4 +1,4 @@
-# Chapter 1 -- Behal
+# Chapter 1 -- Camp Behal
 
 |||
 | --- | --- |  
