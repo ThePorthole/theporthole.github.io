@@ -178,9 +178,8 @@
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655070156423168/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | "See ya later Belln!" | 
 | ![Smokey River](https://cdn.discordapp.com/avatars/464655068793143296/d377dfcfbdeaf56847dea1d0f7345bf3.webp?size=128)<br>Smokey River | You catch more flies with honey, guys. Sheesh. | 
 | ![Myssa](https://cdn.discordapp.com/avatars/464655070156423168/ed988706a44080d0e031664f672851a6.webp?size=128)<br>Myssa | "I am NOT a guy, sheesh!" | 
+| ![Smokey River](https://cdn.discordapp.com/avatars/464655068793143296/d377dfcfbdeaf56847dea1d0f7345bf3.webp?size=128)<br>Smokey River | It's a colloquialism | 
+| ![M'ggah](https://cdn.discordapp.com/avatars/464655070156423168/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | "No, _you're_ a cloak-era lesson!" | 
 
 
 [_Click here to continue to the next chapter_](chapter04.md)
-
-| ![Smokey River](https://cdn.discordapp.com/avatars/464655068793143296/d377dfcfbdeaf56847dea1d0f7345bf3.webp?size=128)<br>Smokey River | It's a colloquialism | 
-| ![M'ggah](https://cdn.discordapp.com/avatars/464655070156423168/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | "No, _you're_ a cloak-era lesson!" | 
