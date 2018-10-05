@@ -1,4 +1,4 @@
-# Chapter 4 -- The Sandstorm
+# Chapter 4 -- The First Oasis
 |||
 | --- | --- |
 | ![Procrustes](https://cdn.discordapp.com/avatars/464655068793143296/787ab4f674b7eca0a232c82497ccfa25.webp?size=128)<br>Procrustes | As you all set forth into the Anauroch desert, you realize immediately you are glad that you recruited Belln to your cause. The sands of the desert shift in moving dunes, and someone unaccustomed to the terrain would very easily become lost. The terrain itself is difficult and as such it takes you about 12 hours to arrive at the first oasis. <br><br>The oasis is a small body of water surrounded by a very lush assortment of fauna. You notice as you approach that Akai and his siblings have made it safely to the oasis and are waiting for you there. As you enter the oasis, you feel a protective wave come over you, and you notice the oasis is most likely magical in some way. | 
