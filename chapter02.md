@@ -1,4 +1,4 @@
-# Chapter 2 -- Journey to the Cave
+# Chapter 2 -- The Herb Cave
 |||
 | --- | --- |  
 | ![Procrustes](https://cdn.discordapp.com/avatars/464655070156423168/787ab4f674b7eca0a232c82497ccfa25.webp?size=128)<br>Procrustes | You all travel north along the outskirts of the desert following the beautiful guide Belln. The pace is  faster than you would normally travel, but you are busy people with places to be and things to do. After about four hours, and as the sun begins to set, Belln turns to you | 
