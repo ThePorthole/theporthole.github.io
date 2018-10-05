@@ -6,4 +6,5 @@ table {
 td {
     border: none !important;
     padding: none !important;
+    vertical-alignment: top !important;
 }
