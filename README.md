@@ -20,7 +20,11 @@
 ## NPCs
 <table><tr>
   {% for npc in site.data.npcs %}
-  <td align="top" markdown="span">![{{ npc.nickname }}]({{ npc.avatar }})  
+    {% assign loopindex = forloop.index | modulo: 4 %}
+    <td align="top" markdown="span">![{{ npc.nickname }}]({{ npc.avatar }})  
     {{ npc.name }}</td>
-{% endfor %}
+    {% if loopindex == 0 %}
+      </tr><tr>
+    {% endif %}
+  {% endfor %}
 </tr></table>
