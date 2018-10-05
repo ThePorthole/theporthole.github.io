@@ -147,7 +147,6 @@
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655070156423168/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | "Like will I need a saddle or what" | 
 | ![Myssa](https://cdn.discordapp.com/avatars/464655068793143296/ed988706a44080d0e031664f672851a6.webp?size=128)<br>Myssa | "Hey there Smokey, I think we've hardly met. What brings you here? Looking for work like Mggah?" | 
 | ![Myssa](https://cdn.discordapp.com/avatars/464655068793143296/ed988706a44080d0e031664f672851a6.webp?size=128)<br>Myssa | "Thank you Torbold, much appreciated! We are looking to set out here in the next few days, but are running short on coin - do you know of any quick work to be found around here?" | 
-| ![Avrae](https://cdn.discordapp.com/avatars/261302296103747584/0c1072166d59baae4a619cc7a0f85f13.webp?size=128)<br>Avrae |  | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655070156423168/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | _didn't myssa say she was following me?  where did she go?_ | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655070156423168/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | _she def told me to lead the way.  now she's all lost.  typical._ | 
 | ![Smokey River](https://cdn.discordapp.com/avatars/464655068793143296/d377dfcfbdeaf56847dea1d0f7345bf3.webp?size=128)<br>Smokey River | Myssa, we met briefly outside. Maybe your memory has been wiped somehow. However, I am pleased to meet you again. | 
