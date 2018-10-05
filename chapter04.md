@@ -1,6 +1,7 @@
 # Chapter 4 -- The First Oasis
-|||
-| --- | --- |
+
+| | |  
+| --- | --- |  
 | ![Procrustes](https://cdn.discordapp.com/avatars/464655068793143296/787ab4f674b7eca0a232c82497ccfa25.webp?size=128)<br>Procrustes | As you all set forth into the Anauroch desert, you realize immediately you are glad that you recruited Belln to your cause. The sands of the desert shift in moving dunes, and someone unaccustomed to the terrain would very easily become lost. The terrain itself is difficult and as such it takes you about 12 hours to arrive at the first oasis. <br><br>The oasis is a small body of water surrounded by a very lush assortment of fauna. You notice as you approach that Akai and his siblings have made it safely to the oasis and are waiting for you there. As you enter the oasis, you feel a protective wave come over you, and you notice the oasis is most likely magical in some way. | 
 | ![Procrustes](https://cdn.discordapp.com/avatars/464655068793143296/787ab4f674b7eca0a232c82497ccfa25.webp?size=128)<br>Procrustes | The Akai siblings seem to be conversing amongst themselves and have not yet noticed your presence | 
 | ![Myssa](https://cdn.discordapp.com/avatars/464655070156423168/ed988706a44080d0e031664f672851a6.webp?size=128)<br>Myssa | "Akai! We made it!! Dang it's hot out here!" | 
@@ -179,3 +180,6 @@
 | ![Iikreeek](https://cdn.discordapp.com/avatars/464655068793143296/08af4d72c827d436217c729ba9aa31ca.webp?size=128)<br>Iikreeek | "Do not fret young lady, I am not one to take issue with simple mistakes." | 
 | ![Tia N'tamra](https://cdn.discordapp.com/avatars/464655070156423168/635cd367cca3e51974ee90b0c48f480c.webp?size=128)<br>Tia N'tamra | "Belln, if you are prepared,  let us make haste" | 
 | ![M'ggah](https://cdn.discordapp.com/avatars/464655068793143296/967268da65916ba7391fc87d31341ab1.webp?size=128)<br>M'ggah | "Yeah, lead the way, super scout." | 
+
+
+[_Click here to continue to the next chapter_](chapter05.md)
