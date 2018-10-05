@@ -6,7 +6,7 @@
 [Chapter 1 -- Camp Behal](chapter01.md)  
 [Chapter 2 -- The Herb Cave](chapter02.md)  
 [Chapter 3 -- Back to Behal](chapter03.md)  
-[Chapter 3 -- Into the Desert](chapter04.md)  
+[Chapter 4 -- The First Oasis](chapter04.md)  
 
 ## Players
 <table><tr>
